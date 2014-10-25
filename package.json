@@ -1,0 +1,12 @@
+{
+  "name": "m3my",
+  "version": "0.0.0",
+  "private": true,
+  "scripts": {
+  },
+  "dependencies": {
+    "express": "~4.8.6",
+    "request": "*",
+    "url": "*"
+  }
+}
